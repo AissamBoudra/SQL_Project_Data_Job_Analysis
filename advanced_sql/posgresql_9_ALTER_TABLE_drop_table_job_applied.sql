@@ -1,0 +1,1 @@
+Drop TABLE job_applied;
